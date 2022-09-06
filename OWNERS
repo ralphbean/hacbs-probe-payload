@@ -2,4 +2,5 @@
 
 approvers:
 - github-actions[bot]
+- appstudio-staging-ci[bot]
 - ralphbean
